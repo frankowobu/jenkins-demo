@@ -1,4 +1,2 @@
 # jenkins-demo
-please work i have headache
-you are mad 
-sdhfgjeadxvnfe
+a jenkins demo to check my connections with github repo
